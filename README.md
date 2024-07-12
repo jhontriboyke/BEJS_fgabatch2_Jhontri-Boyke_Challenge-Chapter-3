@@ -13,4 +13,4 @@ Dimana setiap entitas memilki relasi antara lain :
 ● Satu Akun dapat memiliki banyak Transaksi, tetapi setiap Transaksi hanya terkait dengan satu Akun.
 
 # ERD
-![ERD](./erd-bank_system.png.png)
+![ERD](./erd-bank_system.png)
