@@ -3,11 +3,11 @@ Binar JavaScript Backend - Challenge Chapter 3
 
 Ini merupakan salah satu Challenge Chapter 3 untuk program Bootcamp Binar Backend JavaScript
 
-Membuat Entity Relationship Diagram (ERD) untuk sebuah program perbank-an sederhana yang memiliki tiga entitas antara lain :\n
-• Alamat\n
-• Nasabah\n
-• Akun\n
-• Jenis Akun\n
+Membuat Entity Relationship Diagram (ERD) untuk sebuah program perbank-an sederhana yang memiliki tiga entitas antara lain :
+• Alamat
+• Nasabah
+• Akun
+• Jenis Akun
 • Transaksi
 
 Dimana setiap entitas memilki relasi antara lain :
