@@ -1,5 +1,4 @@
-# BEJS_fgabatch2_Jhontri-Boyke_Challenge-Chapter-3
-Binar JavaScript Backend - Challenge Chapter 3
+# Binar Backend JavaScript Bootcamp- Challenge Chapter 3
 
 Ini merupakan salah satu Challenge Chapter 3 untuk program Bootcamp Binar Backend JavaScript
 
